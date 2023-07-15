@@ -1,0 +1,25 @@
+Installation for running my React Project 
+
+System Requirements:
+- Node.js
+- Package Manager : npm or yarn 
+
+Installation:
+1.) Extract the content of the zip file to a directory of your choice.
+
+Install Dependencies:
+1.) open the command line interface and navigate to the project directory 
+2) Run the command to install the project dependencies:
+	npm install
+
+Build the Project:
+1.) Run the following command to start the application:
+	npm run start
+
+Access the application: 
+1.) Wait for the application to start or open your web browser and visit localhost:3000 to access the application.
+
+Addition Instructions : 
+- Click on the Signup Button in the header to go to the another screens.
+
+ 
