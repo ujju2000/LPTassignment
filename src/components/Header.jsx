@@ -22,7 +22,7 @@ export default function Header() {
             <button className = 'w-[280px] h-[52px] rounded-[18px] border-2 border-[#047E70] p-2 text-[25px]'>Earning Calculator</button>
         </ul>
         <div className = 'w-1/4 flex items-center justify-evenly' >
-            <button className = {buttonStyle}>Login</button>
+            <Link to = '/signup'><button className = {buttonStyle}>Login</button></Link>
             <Link to = '/signup'><button className = {`${buttonStyle} bg-[#047E70] text-white`}>Signup</button></Link>
         </div>
        
